@@ -14,6 +14,7 @@ AnlizadorDatos-Tiene la responsabilidad de chequear que se cumple una determinad
 
 ## Ejercicio 2 y Ejercicio 3 
 //Abstraccion de data base object.
+
 interface IDataBaseObject
 {
     public string Descripcion { get; }
